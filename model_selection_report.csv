@@ -1,0 +1,7 @@
+Metric,Value
+Dataset,Boston Housing
+Models Tested,5
+Best Model,Gradient Cooling
+Best MAE,1.912
+Best RMSE,2.492
+Best R2 Score,0.915
