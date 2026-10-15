@@ -1,0 +1,19 @@
+{
+  "dataset": "Boston Housing (OpenML: boston, version 1)",
+  "selection_metric": "5-fold cross-validated RMSE",
+  "best_model": "Gradient Boosting",
+  "best_cv_rmse": 3.339958516860475,
+  "test_metrics": {
+    "MAE": 1.9259915991260266,
+    "MSE": 6.125406343275959,
+    "RMSE": 2.474955826530235,
+    "R2": 0.9164722440422235
+  },
+  "best_parameters": {
+    "model__learning_rate": 0.05,
+    "model__max_depth": 3,
+    "model__min_samples_leaf": 3,
+    "model__n_estimators": 200
+  },
+  "scikit_learn_version": "1.7.2"
+}
